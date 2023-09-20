@@ -1,0 +1,69 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\SistemaVenta.ClienteBlazor\\bin\\Debug\\net7.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "D:\\SistemaVenta.ClienteBlazor\\obj\\Debug\\net7.0\\build-gz\\g+Di2Joi.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "D:\\SistemaVenta.ClienteBlazor\\obj\\Debug\\net7.0\\scopedcss\\bundle\\SistemaVenta.ClienteBlazor.styles.css",
+      "PackagePath": "staticwebassets\\SistemaVenta.ClienteBlazor.styles.css"
+    },
+    {
+      "Id": "D:\\SistemaVenta.ClienteBlazor\\obj\\Debug\\net7.0\\service-worker-assets.js",
+      "PackagePath": "staticwebassets\\service-worker-assets.js"
+    },
+    {
+      "Id": "D:\\SistemaVenta.ClienteBlazor\\obj\\Debug\\net7.0\\service-worker\\service-worker.published.js",
+      "PackagePath": "staticwebassets\\service-worker.js"
+    },
+    {
+      "Id": "D:\\SistemaVenta.ClienteBlazor\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "D:\\SistemaVenta.ClienteBlazor\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "D:\\SistemaVenta.ClienteBlazor\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "D:\\SistemaVenta.ClienteBlazor\\wwwroot\\icon-512.png",
+      "PackagePath": "staticwebassets\\icon-512.png"
+    },
+    {
+      "Id": "D:\\SistemaVenta.ClienteBlazor\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\SistemaVenta.ClienteBlazor\\wwwroot\\manifest.json",
+      "PackagePath": "staticwebassets\\manifest.json"
+    },
+    {
+      "Id": "D:\\SistemaVenta.ClienteBlazor\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.SistemaVenta.ClienteBlazor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.SistemaVenta.ClienteBlazor.props",
+      "PackagePath": "build\\SistemaVenta.ClienteBlazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.SistemaVenta.ClienteBlazor.props",
+      "PackagePath": "buildMultiTargeting\\SistemaVenta.ClienteBlazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.SistemaVenta.ClienteBlazor.props",
+      "PackagePath": "buildTransitive\\SistemaVenta.ClienteBlazor.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
